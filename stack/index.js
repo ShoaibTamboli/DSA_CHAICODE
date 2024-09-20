@@ -27,11 +27,11 @@ class Stack{
     }
 
     size(){
-        return this.stack.length
+        return this.stack.length;
     }
 
     clear(){
-        this.stack = []
+        this.stack = [];
     }
 
     contain(element){
